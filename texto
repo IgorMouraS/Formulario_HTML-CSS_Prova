@@ -1,0 +1,7 @@
+b)
+-action é para definir onde vão os dados que serão coletados do formulario;
+-method é o metodo HTTP que será usado para enviar esses dados
+
+d) 
+-<link> é usado no HTML para utilizar um arquivo externo como estilização do site
+-<style> é usado para utilizar uma estilização interna do site.

@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: arial;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#nome{
+    background-color: orange;
+}
+
+button{
+    background-color: orange;
+    width: 100%;
+}
